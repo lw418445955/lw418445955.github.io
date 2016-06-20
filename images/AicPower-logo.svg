@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="64 91 371 315" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+    <radialGradient id="gradient-2" gradientUnits="userSpaceOnUse" cx="433.579" cy="-458.262" r="173" gradientTransform="matrix(-0.552166, 0.351971, -0.209577, -0.328775, 646.031177, -861.375709)">
+      <stop style="stop-color: rgb(128, 169, 193);" offset="0"/>
+      <stop style="stop-color: rgb(72, 119, 147);" offset="1"/>
+    </radialGradient>
+    <radialGradient id="gradient-1" gradientUnits="userSpaceOnUse" cx="-153.342" cy="556.603" r="173" gradientTransform="matrix(0.308053, -0.000003, 0.000003, 0.283042, -106.106068, 399.060411)">
+      <stop style="stop-color: rgb(177, 177, 177);" offset="0"/>
+      <stop style="stop-color: rgb(126, 126, 126);" offset="1"/>
+    </radialGradient>
+    <radialGradient id="gradient-4" gradientUnits="userSpaceOnUse" cx="-144.877" cy="476.781" r="173" gradientTransform="matrix(0.366315, 0.082811, -0.085243, 0.377065, -60.293959, 386.230252)">
+      <stop style="stop-color: rgb(35, 35, 35);" offset="0"/>
+      <stop style="stop-color: rgb(0, 0, 0);" offset="1"/>
+    </radialGradient>
+  </defs>
+  <path d="M -153.342 552.755 L 19.658 652.755 L -326.342 652.755 L -153.342 552.755 Z" style="fill: url(#gradient-1); stroke: rgb(146, 146, 146);" transform="matrix(1, 0.000001, 0.000001, -1, 402.631218, 744.600951)" bx:shape="triangle -326.342 552.755 346 100 0.5 0 1@d3e69cbd"/>
+  <path d="M 499.342 -552.755 L 672.342 -452.755 L 326.342 -452.755 L 499.342 -552.755 Z" style="fill: url(#gradient-2); vector-effect: non-scaling-stroke; stroke: rgb(91, 127, 148);" transform="matrix(-0.500001, 0.866025, 0.866025, 0.500001, 987.715678, 49.759837)" bx:shape="triangle 326.342 -552.755 346 100 0.5 0 1@fd38b467"/>
+  <path d="M -153.342 552.755 L 19.658 652.755 L -326.342 652.755 L -153.342 552.755 Z" style="fill: url(#gradient-4); fill-rule: nonzero; stroke-linejoin: miter; stroke: rgb(0, 0, 0);" transform="matrix(-0.499999, -0.866026, -0.866026, 0.5, 641.267295, -203.493607)" bx:shape="triangle -326.342 552.755 346 100 0.5 0 1@d3e69cbd"/>
+</svg>
