@@ -34,6 +34,40 @@
 		height: 344px;
 	}
 	
+	table.introBox {
+    border: 1px solid #2da1d3;
+    border-left: 6px solid #2da1d3;
+	margin-bottom: 3em;
+	background-repeat: repeat;
+	background-size: auto auto;
+	background-image:  url("images/blueprint-dark.png");
+	background: top center；
+	}
+	
+	table.introBox th {
+    background-color: rgba(229, 248, 255, 0.5);
+    border: 1px solid #2da1d3;
+    border-right: none;
+    vertical-align: top;
+    padding: 6px;
+    text-align: center;
+    font-weight: 700;
+	font-size: 0.65em;
+	width: 100px;
+}
+	
+	table.introBox td {
+    border: 1px solid #2da1d3;
+	border-left: none;
+	box-shadow: none;
+	padding: 6px 8px;
+	text-align: left;
+	vertical-align: top;
+	font-weight: 100;
+	font-size: 0.65em;
+	background-color: rgba(246, 252, 255, 0.3);
+}
+	
 	.productDetail p {
 		background: top center #fafbfc;
 		border-left: 10px solid #31ace1;
